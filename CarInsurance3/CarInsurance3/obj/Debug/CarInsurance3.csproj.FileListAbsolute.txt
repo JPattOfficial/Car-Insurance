@@ -80,3 +80,4 @@ C:\Users\Owner\source\repos\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.
 C:\Users\Owner\source\repos\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.csproj.CopyComplete
 C:\Users\Owner\source\repos\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.dll
 C:\Users\Owner\source\repos\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.pdb
+C:\Users\Owner\source\repos\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.csproj.AssemblyReference.cache
